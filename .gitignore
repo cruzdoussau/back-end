@@ -1,0 +1,10 @@
+# Ignorar archivos de Node.js
+node_modules/
+npm-debug.log
+
+# Ignorar variables de entorno
+.env
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
